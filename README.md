@@ -1,6 +1,6 @@
 # modscript
 
-A mod of gorescript. Temporary site hosting on github.
+A mod of gorescript. Temporary dev site hosting on github.
 
 Created by @joshuabgad
 
