@@ -4,4 +4,4 @@ A mod of gorescript.
 
 Created by @joshuabgad
 
-joshuabernstein.space
+[joshuabernstein.space](https://joshuabernstein.space)
