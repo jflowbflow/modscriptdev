@@ -1,9 +1,9 @@
 # modscript
 
-A mod of gorescript. Site hosted on github.
+A mod of gorescript. Hosted on github.
 
 Created by @joshuabgad
 
-Check out my website [joshuabernstein.space](http://www.joshuabernstein.space/)
+[joshuabernstein.space](http://www.joshuabernstein.space/)
 
 [Play Game](beta-v4/)
