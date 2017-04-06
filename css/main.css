@@ -1,0 +1,62 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+	/*background-color: #5FBD5C;*/
+	/*background-color: #53AD50;*/
+	/*background-color: #489E45;*/
+	background-color: #000;
+}
+nav ul, footer ul {
+    font-family:'Lucida Console', 'Lucida Console', 'Lucida Console';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+footer ul li {
+	display: inline;
+	margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #D2D2D2;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Lucida Console', 'Lucida Console', 'Lucida Console';
+	color: white;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: white;
+}
+p.message{
+	font-size: 1em;
+	line-height: 1em;
+	color: white;
+}
+span.note{
+    font-size: 1em;
+    line-height: 1em;
+    color: white;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
