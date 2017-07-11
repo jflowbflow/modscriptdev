@@ -8,4 +8,4 @@ Created by @joshuabgad
 
 [joshuabernstein.space](http://www.joshuabernstein.space/)
 
-[Play Game](release-v1/)
+[Play Game](https://modscriptgame.github.io/)
